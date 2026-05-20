@@ -2,6 +2,8 @@
 
 google colab link: https://colab.research.google.com/drive/1F_d88cHJtokb8ykV_dIaEQpwJlK_i9q5?usp=drive_link
 
+## CNN Model: https://drive.google.com/file/d/14zhytQIqT2AKLo8awMDtIL-N-TugSPw_/view?usp=sharing
+
 ## PART 4: Compare Results (Before vs After)
 ## Guide Questions (Student Explanation & Reflection) 
 Students must answer: 
